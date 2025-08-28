@@ -1,0 +1,13 @@
+{
+  "name": "immi-account-clone",
+  "version": "1.0.0",
+  "description": "Clone of Australian Immigration Status Check",
+  "scripts": {
+    "dev": "vercel dev",
+    "start": "vercel start"
+  },
+  "dependencies": {},
+  "devDependencies": {
+    "@vercel/node": "^2.0.0"
+  }
+}
